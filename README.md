@@ -13,7 +13,7 @@ VoidTheory is a modern, responsive e-commerce platform built using the **MERN st
 
   Alternatively, you can watch the demo video for an overview of the Admin Panel features.
 
-  [Demo Video: Watch here]([https://your-demo-video-url.com](https://youtu.be/pynnyvHCEfI))
+  [Demo Video: Watch here]((https://youtu.be/pynnyvHCEfI))
 
 ## Features
 
